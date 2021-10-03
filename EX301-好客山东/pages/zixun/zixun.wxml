@@ -1,0 +1,26 @@
+<!--pages/zixun/zixun.wxml-->
+<view class='box'>
+  <view class='title'>东方圣城</view>
+  <view style='text-align:center;'></view>
+    <view class='title1'>孔府</view>
+    <view>
+      <image src='/images/fu.jpg' ></image>
+    </view>
+    <view class='textStyle02'>
+      西与孔庙为邻，是孔子世袭“衍圣公”的世代嫡裔子孙居住的地方，是我国仅次于明、清皇帝宫室的最大府第。现在，孔府占地246多亩，有厅、堂、楼、轩等各式建筑463间，分为中、东、西三路。东路为家庙，西路为学院，中路为主体建筑。
+    </view>
+    <view class='title1'>孔庙</view>
+    <view>
+      <image src='/images/miao.jpg' ></image>
+    </view>
+    <view class='textStyle02'>
+      座落在曲阜城内，其建筑规模宏大、雄伟壮丽、金碧辉煌，为我国最大的祭孔要地。孔子死后第二年(公元前478年)，鲁哀公将其故宅改建为庙。此后历代帝王不断加封孔子，扩建庙字，到清代，雍正下令大修，扩建成现代规模。庙内共有九进院落，以南北为中轴，分左、中、右三路，纵长630米，横宽140米，有殿、堂、坛、阁460多间，门坊54座，“御碑亭”13座。
+    </view>
+    <view class='title1'>孔林</view>
+    <view>
+      <image src='/images/lin.jpg' ></image>
+    </view>
+    <view class='textStyle02'>
+      是孔于及其后代的墓园，位于曲阜城北，占地达3000余亩。园内古木森森，林下墓家累累，碑蝎林立，石仪成队。其中孔子、孔鲤、孔极三代墓周绕以红墙。另有楷亭、驻躁亭，是皇帝来此祭孔时休息的地方。
+    </view>
+</view>

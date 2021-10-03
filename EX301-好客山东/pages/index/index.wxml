@@ -1,0 +1,33 @@
+<!--index.wxml-->
+<view class='box'>
+  <view class='title'>齐风鲁韵钟灵毓秀</view>
+  <view style='text-align:center;'></view>
+    <view class='title1'>礼仪之邦</view>
+    <view>
+      <image src='/images/liyi.jpg' ></image>
+    </view>
+    <view class='textStyle01'>
+        孔孟之乡， 礼仪之邦。仁义礼智孝的思想深深植根于齐鲁大地，伴随齐鲁儿女的生命延续而传承。
+    </view>
+    <view class='title1'>无限风光</view>
+    <view>
+      <image src='/images/fengjing.jpg' ></image>
+    </view>
+    <view class='textStyle02'>
+      美丽的自然景观、丰富的历史文化和鲜明的地方特色相互交融，形成了山东独特的旅游风格。山东历史文化厚重，自然山水奇绝，东岳独秀的泰山，天下第一的趵突泉，风光独好的沂蒙山，还有景色迷人的浪漫海滨和水浒好汉等英雄故事，类型各异的地理风貌景观共同构成了绚丽多姿的山东。
+    </view>
+    <view class='title1'>文化遗产</view>
+    <view>
+      <image src='/images/wenhua.jpg' ></image>
+    </view>
+    <view class='textStyle02'>
+      山东是中华文明的重要发祥地之一,在悠悠历史长河中，撸先民创造了丰富灿烂的文化遗产。
+    </view>
+    <view class='title1'>美食畅飨</view>
+    <view>
+      <image src='/images/meoshi.png' ></image>
+    </view>
+    <view class='textStyle02'>
+      山东人对美食的追求，可以用孔夫子的“食不厌精，脍不厌细”概括。齐鲁大地自古以来就是物产富饶的宝地，山川、湖泊、田野、海洋......为勤劳聪慧的山东人民提供了丰富食材，就地取材的烹饪高手几经钻研，就把再平常不过的食材变为可口佳肴。
+    </view>
+</view>

@@ -1,0 +1,40 @@
+/* pages/index/index.wxss */
+/**index.wxss**/
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+.userinfo-nickname {
+  color: #aaa;
+}
+
+.usermotto {
+  margin-top: 200px;
+}
+.textStyle01 {
+  /* 文本样式01 */
+  color: rgb(22, 21, 21); /* 文本颜色：红色 */
+  letter-spacing: 5px; /* 字符间距：10像素 */
+  text-align: left; /* 文本对齐：左对齐 */
+  text-indent: 40px; /* 首行缩进 */
+  line-height: 30px; /* 行间距 */
+  white-space: normal;
+}
+.textStyle02 {
+  /* 文本样式01 */
+  color: rgb(22, 21, 21); /* 文本颜色：红色 */
+  letter-spacing: 3px; /* 字符间距：10像素 */
+  text-align: left; /* 文本对齐：左对齐 */
+  text-indent: 30px; /* 首行缩进 */
+  line-height: 30px; /* 行间距 */
+  white-space: normal;
+}

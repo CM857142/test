@@ -1,0 +1,33 @@
+<!--pages/guanyu/guanyu.wxml-->
+<!--index.wxml-->
+<view class='box'>
+  <view class='title'>泰山西麓，汶水之阳。</view>
+  <view class='title'>人间仙境，世上桃缘。</view>
+  <view style='text-align:center;'></view>
+    <view>
+      <image src='/images/feicheng1.webp' ></image>
+    </view>
+    <view class='textStyle02'>
+      我的家乡肥城是一个风景如画的小城, 它虽然没有其它大城市 那么豪华,但是它有它独特的美!
+    </view>
+    <view>
+      <image src='/images/feicheng2.jpg' ></image>
+    </view>
+    <view class='textStyle02'>
+      肥城,最吸引人的独特的美就属桃花了。每年四月,桃花少女 们争先恐后、陆陆续续的开放。放眼望去,桃花是粉红的,大地也 是粉红的,一阵凉爽的微风吹过桃花翩翩起舞。漫山遍野的桃花仿 佛在等着客人来观赏她那美丽的身躯。
+    </view>
+    <view>
+      <image src='/images/feicheng3.jpg' ></image>
+    </view>
+    <view class='textStyle02'>
+      肥城的龙山公园也非常的引入注目,龙山河水平静而又轻缓, 平静得如同一面镜子,轻缓的如同一首诗。沿着龙山河向前出发, 就来到了蜿蜒曲折的小路。 漫步在幽静的林间小路上你会看到各种 各样的花草树木和听到稀奇古怪的鸟儿叫声, 像是在开大自然音乐 会。走过小路就到了龙山塔,近看龙山塔,首先看见的便是一根直 通塔顶的大柱子,楼梯环绕着柱子盘旋而上,塔共七层。上楼梯时 会感到有些眩晕的感觉,但是非常的刺激,好像一不小心就会掉下 来。到塔的最高处,肥城大半的景象收在眼底,很是壮观。 肥城不仅景色美,物产也很丰富。 肥城又被称为桃都之乡,桃 子又红又大,向一个个调皮的小娃娃,俏皮地对人微笑。那大肥 桃,伴着浓郁的香味,吃下去甜滋滋的,味道美极了!吃掉一个 还想吃第二个。大白菜、犬肉、鸭蛋、演马的牛肉等等。
+    </view>
+    <view>
+      <image src='/images/feicheng4.jpg' ></image>
+    </view>
+    <view class='textStyle02'>
+      肥城是我的家乡。肥城的美说也说不尽。如果到这来旅游, 绝对会让你流连忘返!
+    </view>
+
+</view>
+

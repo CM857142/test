@@ -1,0 +1,19 @@
+/* pages/jiaoxue/jiaoxue.wxss */
+.textStyle01 {
+  /* 文本样式01 */
+  color: rgb(22, 21, 21); /* 文本颜色：红色 */
+  letter-spacing: 5px; /* 字符间距：10像素 */
+  text-align: left; /* 文本对齐：左对齐 */
+  text-indent: 40px; /* 首行缩进 */
+  line-height: 30px; /* 行间距 */
+  white-space: normal;
+}
+.textStyle02 {
+  /* 文本样式01 */
+  color: rgb(22, 21, 21); /* 文本颜色：红色 */
+  letter-spacing: 3px; /* 字符间距：10像素 */
+  text-align: left; /* 文本对齐：左对齐 */
+  text-indent: 30px; /* 首行缩进 */
+  line-height: 30px; /* 行间距 */
+  white-space: normal;
+}

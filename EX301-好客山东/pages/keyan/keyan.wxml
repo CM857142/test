@@ -1,0 +1,23 @@
+<!--pages/keyan/keyan.wxml-->
+<view class='box'>
+  <view class='title'>沉醉不知归路</view>
+  <view style='text-align:center;'></view>
+    <view>
+      <image src='/images/quan1.jpg' ></image>
+    </view>
+    <view class='textStyle02'>
+      济南，别称泉城，因境内泉水众多，拥有“七十二名泉”，素有“四面荷花三面柳，一城山色半城湖”的美誉，济南八景闻名于世，是拥有“山、泉、湖、河、城”独特风貌的旅游城市，是国家历史文化名城、首批中国优秀旅游城市，史前文化——龙山文化的发祥地之一。
+    </view>
+    <view>
+      <image src='/images/quan2.jpg' ></image>
+    </view>
+    <view class='textStyle02'>
+      泉城广场东西约780米，南北宽约230米，面积16.96公顷。设计以贯通趵突泉、解放阁的边线为主轴，以榜棚街和泺文路的延续为副轴而构成框架。各功能分区围绕轴线由西向东依次展开。广场主入口处，庄严的国旗迎风飘扬，国旗下“泉城广场”四个在字铭刻于入口标志之上，其背面刻有《泉城广场记》
+    </view>
+    <view>
+      <image src='/images/quan3.jpg' ></image>
+    </view>
+    <view class='textStyle02'>
+      泉城济南，泉群众多、水量丰沛，被称为的天然岩溶泉水博物馆。济南城内百泉争涌，分布着久负盛名的趵突泉泉群、黑虎泉泉群、五龙潭泉群、珍珠泉泉群、白泉泉群、百脉泉泉群、玉河泉泉群、涌泉泉群、袈裟泉泉群以及平阴的洪范池泉群十大泉群。以上十大泉群均属“济南泉群”。济南城内百泉争涌，向有名泉七十二之说，流传甚广。
+    </view>
+</view>
